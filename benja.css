@@ -1,0 +1,16 @@
+* {
+    background-color: blueviolet;
+    padding: auto;
+    margin: auto;
+}
+#Estafar{
+    color: rgb(207, 176, 49);
+    font-size: 4em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 3;
+    font-weight:900;
+}
+#Setup {
+    color: darkgreen;
+    font-size: 3.5em;
+}
